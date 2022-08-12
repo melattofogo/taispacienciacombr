@@ -1,0 +1,35 @@
+name: webdev
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2022.07.19=haa95532_0
+  - certifi=2022.6.15=py39haa95532_0
+  - openssl=1.1.1q=h2bbff1b_0
+  - pip=22.1.2=py39haa95532_0
+  - python=3.9.12=h6244533_0
+  - setuptools=61.2.0=py39haa95532_0
+  - sqlite=3.39.2=h2bbff1b_0
+  - tzdata=2022a=hda174b7_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - wincertstore=0.2=py39haa95532_2
+  - pip:
+    - argcomplete==1.12.3
+    - charset-normalizer==2.1.0
+    - colorama==0.4.5
+    - commitizen==2.29.5
+    - commitizen-cz-fogoprobr==1.0.2
+    - decli==0.5.2
+    - jinja2==3.1.2
+    - markupsafe==2.1.1
+    - packaging==21.3
+    - prompt-toolkit==3.0.30
+    - pyparsing==3.0.9
+    - pyyaml==6.0
+    - questionary==1.10.0
+    - termcolor==1.1.0
+    - tomlkit==0.11.3
+    - typing-extensions==4.3.0
+    - wcwidth==0.2.5
+prefix: C:\tools\miniconda3\envs\webdev
